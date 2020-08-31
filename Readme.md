@@ -6,6 +6,7 @@ The 'curry' is a string consisting of N characters such that each character is e
 corresponding index of the array is the weight of each ingredient.
 The curry is perfect if the sum of the total weights of 'P', 'Q' and 'R' is equal.
 Write a function
+
 ` function myCurry `
 
 such that, given a zero-indexed array Array consisting of N integers, returns the perfect curry of this array.
